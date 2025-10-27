@@ -1,0 +1,17 @@
+---
+title: "About Me 👩‍🔬"
+format: html
+editor: visual
+---
+
+Hi! I’m **Sumaya Akter**, a PhD student in **Neuroscience** at the **University of New Hampshire**.  
+
+
+You can explore my recent publication on **PubMed**:  
+👉 [Disruption of ciliary signaling alters neuronal positioning and laminar organization](https://pubmed.ncbi.nlm.nih.gov/40894628/)
+
+Connect with me on [GitHub](https://github.com/SumayaAkter739) or follow my scientific updates here.
+
+---
+
+## 
