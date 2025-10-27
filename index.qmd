@@ -1,0 +1,15 @@
+---
+title: "Welcome to My Supercool Code"
+format: html
+---
+
+# Hello!
+
+Welcome to my personal website built using **Quarto** and **GitHub Pages**.
+
+You can visit my GitHub repository here:  
+[My Amazing Code](https://github.com/SumayaAkter739/my-amazing-code)
+
+---
+
+## 
