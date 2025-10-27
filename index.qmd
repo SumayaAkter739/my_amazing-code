@@ -12,4 +12,13 @@ You can visit my GitHub repository here:
 
 ---
 
-## 
+## About Me 👩‍🔬
+
+Hi! I'm **Sumaya Akter**, a PhD student in **Neuroscience** at the University of New Hampshire.
+
+My research integrates **molecular biology, confocal imaging, cryosectioning, and neurobiology** to uncover how **neuronal polarity forms and fails in neurodevelopmental disorders**. I am particularly interested in the role of **primary cilia** and **Reelin signaling** in shaping neuronal structure and brain organization.
+
+You can explore my recent publication on **PubMed**:\
+[Disruption of ciliary signaling alters neuronal positioning and laminar organization](https://pubmed.ncbi.nlm.nih.gov/40894628/)
+
+Connect with me on [GitHub](https://github.com/SumayaAkter739) or follow my scientific updates here.
