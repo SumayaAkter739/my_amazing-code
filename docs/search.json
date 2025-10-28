@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Supercool Code",
+    "section": "",
+    "text": "Sumaya Akter"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Supercool Code",
+    "section": "About Me 🧠👩‍🔬",
+    "text": "About Me 🧠👩‍🔬\nHi! I’m Sumaya Akter, a PhD student in Neuroscience at the University of New Hampshire.\nMy goal is to be a Neuroscientist."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me 👩‍🔬",
+    "section": "",
+    "text": "Hi! I’m Sumaya Akter, a PhD student in Neuroscience at the University of New Hampshire.\nYou can explore my recent publication on PubMed:\n👉 Disruption of ciliary signaling alters neuronal positioning and laminar organization\nConnect with me on GitHub or follow my scientific updates here."
+  }
+]

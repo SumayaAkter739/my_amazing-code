@@ -2,5 +2,19 @@ title: "My Supercool Code"
 tools:
   - icon: github
     href: "https://github.com/SumayaAkter739/my-amazing-code"
+
 page-footer:
   left: "© Copyright 2025, Sumaya Akter"
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Supercool Code"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
