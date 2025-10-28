@@ -11,14 +11,12 @@ website:
   favicon: img/sumaya.jpg
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
+      - text: "Education"
+        href: Education.qmd
       - text: "Research"
         href: research.qmd
       - text: "Teaching"
-        href: teaching.qmd
-      - text: "Presentations"
-        href: presentations.qmd
+        href: Teaching.qmd
       - text: "CV"
         href: CV_Sumaya.pdf
   page-footer:

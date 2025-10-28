@@ -1,24 +1,23 @@
-
 ---
-title: "About Me"
-about:
-  template: trestles
-  image: img/sumaya.jpg
-  image-alt: "Sumaya Akter"
-  links:
-    - icon: geo-alt
-      text: Durham, New Hampshire
-    - icon: envelope
-      text: sumaya.akter@unh.edu
-      href: mailto:sumaya.akter@unh.edu
-    - icon: file-text
-      text: Download my CV
-      href: CV_Sumaya.pdf
+title: ""
 ---
 
-# 🧠 About Me
+<div style="text-align: center; margin-top: 30px;">
 
-I’m Sumaya Akter, a Ph.D. student in Neuroscience at the University of New Hampshire.  
-My research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization in the developing cerebral cortex through immunostaing, confocal imaging and quantitative analysis (ImageJ/Fiji, CorelDraw, MATLAB). 
+<img src="img/sumaya.jpg" alt="Sumaya Akter" width="220px" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.3); margin-bottom: 15px;">
 
+<h1 style="margin-bottom: 0;">Sumaya Akter</h1>
+<p style="font-size: 18px; color: gray; margin-top: 5px;">Ph.D. Student in Neuroscience, University of New Hampshire</p>
 
+<p style="font-size: 16px; margin-top: 10px;">
+📍 Durham, New Hampshire &nbsp;&nbsp; | &nbsp;&nbsp;
+✉️ <a href="mailto:sumaya.akter@unh.edu">sumaya.akter@unh.edu</a>
+</p>
+
+</div>
+
+<div style="max-width: 750px; margin: 40px auto; text-align: justify; font-size: 18px; line-height: 1.6;">
+
+My research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization during cortical development. My recent discovery revealed that the primary cilia of pyramidal neurons are positioned near the base of apical dendrites and oriented opposite to the axon initial segment (AIS), reflecting their directional alignment along the apical-basal axis. In Reelin-deficient (reeler) mice, this polarity is disrupted, leading to disoriented and elongated cilia in principal neurons across the neocortex and hippocampus—uncovering a critical role for Reelin in controlling ciliary orientation and length during postnatal neurodevelopment. Through high-resolution confocal imaging, immunostaining, and quantitative morphometric analysis, my work aims to define how ciliary dynamics influence neuronal positioning, cortical patterning, and neurodevelopmental disorders such as autism, schizophrenia, and epilepsy.
+
+</div>
