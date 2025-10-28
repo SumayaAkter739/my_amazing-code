@@ -1,31 +1,28 @@
+
+project:
+  type: website
+  output-dir: docs
+
 website:
   title: "About Me"
   site-url: https://sumayaakter739.github.io/my_amazing-code/
-  sidebar:
-    style: "floating"
-    logo: img/sumaya.jpg
-    search: false
-    about:
-      id: "sidebar"
-      name: "Sumaya Akter"
-      description: "PhD Student in Neuroscience"
-      location: "Durham, New Hampshire"
-      affiliations:
-        - name: "University of New Hampshire"
-          url: "https://www.unh.edu/"
-      contact:
-        - icon: map-pin
-          text: "Durham, New Hampshire"
-        - icon: envelope
-          text: "sumaya.akter@unh.edu"
-          url: "mailto:sumaya.akter@unh.edu"
-        - icon: file-text
-          text: "Download CV"
-          url: "CV_Sumaya.pdf"
-        - icon: graduation-cap
-          text: "Google Scholar"
-          url: "https://scholar.google.com/citations?hl=en&user=u5tyAQIAAAAJ"
-        - icon: github
-          text: "GitHub"
-          url: "https://github.com/SumayaAkter739"
+  favicon: img/sumaya.jpg
+  navbar:
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Presentations"
+        href: presentations.qmd
+      - text: "CV"
+        href: CV_Sumaya.pdf
+  page-footer:
+    left: "&copy; 2025 Sumaya Akter"
+    right: "Built with Quarto"
 
+format:
+  html:
+    theme: yeti
+    toc: false
+    page-layout: full

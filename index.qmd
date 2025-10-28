@@ -1,17 +1,26 @@
+
 ---
-title: "Sumaya Akter"
-image: img/me.jpg
+title: "About Me"
+about:
+  template: trestles
+  image: img/sumaya.jpg
+  image-alt: "Sumaya Akter"
+  links:
+    - icon: geo-alt
+      text: Durham, New Hampshire
+    - icon: envelope
+      text: sumaya.akter@unh.edu
+      href: mailto:sumaya.akter@unh.edu
+    - icon: file-text
+      text: Download my CV
+      href: CV_Sumaya.pdf
 ---
 
-# **Hi!**
 
-I’m Sumaya Akter, a PhD student in Neuroscience (Biochemistry program) at the University of New Hampshire. I study how primary cilia and the Reelin signaling pathway** regulate neuronal migration and laminar organization in the cerebral cortex, with the long-term goal of connecting basic mechanisms to neurodevelopmental and cognitive disorders.
 
-My work integrates confocal imaging, quantitative analysis, and rigorous statistics to map ciliary orientation, length, and apical localization across cortical regions.
+# 🧠 About Me
 
-- 📍 Durham, New Hampshire  
-- ✉️ sumaya.akter@unh.edu  
-- 📄 [Download my CV](CV_Sumaya.pdf)
+I’m Sumaya Akter, a Ph.D. student in Neuroscience at the University of New Hampshire.  
+My research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization in the developing cerebral cortex through immunostaing, confocal imaging and quantitative analysis (ImageJ/Fiji, CorelDraw, MATLAB). 
 
-> I’m passionate about scientific communication, data-driven neuroscience, and collaborative, open science.
 
