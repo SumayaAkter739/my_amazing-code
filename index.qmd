@@ -3,11 +3,10 @@ title: "Welcome to My Supercool Code"
 format: html
 ---
 
-![Sumaya Akter](img/sumaya.jpg){.headshot}
-
+![Sumaya Akter](img/sumaya.jpg){width=180px fig-align="right"}
 
 ## About Me 🧠👩‍🔬
 
-Hi! I'm **Sumaya Akter**, a PhD student in **Biochemistry** at the University of New Hampshire.  
+Hi! I'm **Sumaya Akter**, a PhD student in **Neuroscience** at the University of New Hampshire.  
 
 My goal is to be a **Neuroscientist**.

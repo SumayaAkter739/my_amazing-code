@@ -1,20 +1,23 @@
-title: "My Supercool Code"
-tools:
-  - icon: github
-    href: "https://github.com/SumayaAkter739/my-amazing-code"
-
-page-footer:
-  left: "© Copyright 2025, Sumaya Akter"
-
 project:
   type: website
   output-dir: docs
 
 website:
-  title: "My Supercool Code"
+  title: "Sumaya Akter"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me
+        text: About
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/SumayaAkter739
+      - icon: envelope
+        href: mailto:sumayagbe.nstu@gmail.com
+
+format:
+  html:
+    theme: flatly
