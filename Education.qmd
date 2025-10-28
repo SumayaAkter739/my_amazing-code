@@ -1,0 +1,25 @@
+---
+title: "Education"
+---
+
+## 🎓 Ph.D. in Biochemistry (Neuroscience)
+Aug 2023 – Present  
+Department of Molecular, Cellular, and Biochemical Science 
+University of New Hampshire, USA 
+Advisor: Dr. Xuanmao Chen  
+
+Project: Reelin Controls Cilia Directionality and Centriole Positioning in Laminated Cortical Regions  
+
+My doctoral research focuses on how the Reelin signaling pathway regulates neuronal polarity and ciliary orientation during cortical development. This work combines high-resolution confocal imaging, immunostaining, and quantitative analysis to explore how molecular cues shape neuronal migration and laminar organization in the mammalian brain.
+
+---
+
+## 🧬 Bachelor of Science in Biotechnology and Genetic Engineering
+Jan 2018 – May 2023  
+Noakhali Science and Technology University (NSTU), Bangladesh  
+
+Undergraduate Project:  
+In silico Characterization of a Hypothetical Protein from Streptococcus pneumoniae D39V strain reveals a Biofilm Formation Stimulator Protein.
+
+During my undergraduate studies, I developed a strong background in molecular biology, protein modeling, and computational bioinformatics, which provided a foundation for my current neuroscience research.
+---
