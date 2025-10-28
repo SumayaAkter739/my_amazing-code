@@ -1,19 +1,6 @@
----
+------------------------------------------------------------------------
 
-page-title: false
-about:
-  template: trestles      # adds the profile layout
-  image: img/sumaya.jpg
-  links:
-    - icon: map-pin
-      text: Durham, New Hampshire
-    - icon: envelope
-      text: sumayagbe.nstu@gmail.com
-      href: mailto:sumayagbe.nstu@gmail.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/SumayaAkter739
----
+page-title: false about: template: trestles \# adds the profile layout image: img/sumaya.jpg links: - icon: map-pin text: Durham, New Hampshire - icon: envelope text: sumayagbe.nstu\@gmail.com href: mailto:sumayagbe.nstu\@gmail.com - icon: github text: GitHub href: https://github.com/SumayaAkter739 ---
 
 \# "About Me"
 
