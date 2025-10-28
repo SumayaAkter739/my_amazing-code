@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me</title>
+<title>about – About Me</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -116,47 +117,24 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="img/sumaya.jpg" class="about-image
-  rounded " style="width: 20em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">About Me</h1>
-</div>
-<div class="quarto-title-meta column-page">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="" class="about-link" rel="" target="">
-    <i class="bi bi-map-pin"></i>
-     <span class="about-link-text">Durham, New Hampshire</span>
-  </a>
-  <a href="mailto:sumayagbe.nstu@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">sumayagbe.nstu@gmail.com</span>
-  </a>
-  <a href="https://github.com/SumayaAkter739" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>Hello! My name is <strong>Sumaya Akter</strong>, and I am a PhD student in <strong>Neuroscience</strong> at the <strong>University of New Hampshire</strong>.<br>
-My research focuses on <strong>how primary cilia signaling and the Reelin signaling pathway regulate neuronal migration and laminar organization in the cerebral cortex</strong>, with the long-term goal of linking these basic mechanisms to <strong>cognitive disorders</strong>.</p>
-<p>I’m passionate about <strong>postnatal brain development, ciliary signaling, and cortical organization</strong>, integrating molecular biology and imaging techniques to explore brain structure and function.<br>
-Beyond the lab, I value <strong>scientific communication, data-driven neuroscience</strong>, and collaborative, open science.</p>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<hr>
+<p>page-title: false about: template: trestles # adds the profile layout image: img/sumaya.jpg links: - icon: map-pin text: Durham, New Hampshire - icon: envelope text: sumayagbe.nstu@gmail.com href: mailto:sumayagbe.nstu@gmail.com - icon: github text: GitHub href: https://github.com/SumayaAkter739 —</p>
+<p># “About Me”</p>
+<p>My research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization during cortical development. My recent discovery revealed that the primary cilia of pyramidal neurons are positioned near the base of apical dendrites and oriented opposite to the axon initial segment (AIS), reflecting their directional alignment along the apical-basal axis. In Reelin-deficient (reeler) mice, this polarity is disrupted, leading to disoriented and elongated cilia in principal neurons across the neocortex and hippocampus—uncovering a critical role for Reelin in controlling ciliary orientation and length during postnatal neurodevelopment. Through high-resolution confocal imaging, immunostaining, and quantitative morphometric analysis, my work aims to define how ciliary dynamics influence neuronal positioning, cortical patterning, and neurodevelopmental disorders such as autism, schizophrenia, and epilepsy.</p>
 <hr>
 <hr>
 <section id="section" class="level2">
-<h2 data-anchor-id="section"></h2>
+<h2 class="anchored" data-anchor-id="section"></h2>
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -177,6 +155,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

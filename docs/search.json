@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nSumaya Akter\n",
+    "section": "",
+    "text": "Sumaya Akter\n\n\nPh.D. Student in Neuroscience, University of New Hampshire\n\n\n📍 Durham, New Hampshire    |    ✉️ sumaya.akter@unh.edu\n\n\n\nMy research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization during cortical development. My recent discovery revealed that the primary cilia of pyramidal neurons are positioned near the base of apical dendrites and oriented opposite to the axon initial segment (AIS), reflecting their directional alignment along the apical-basal axis. In Reelin-deficient (reeler) mice, this polarity is disrupted, leading to disoriented and elongated cilia in principal neurons across the neocortex and hippocampus—uncovering a critical role for Reelin in controlling ciliary orientation and length during postnatal neurodevelopment. Through high-resolution confocal imaging, immunostaining, and quantitative morphometric analysis, my work aims to define how ciliary dynamics influence neuronal positioning, cortical patterning, and neurodevelopmental disorders such as autism, schizophrenia, and epilepsy."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Education 🎓\n\nPh.D. in Neuroscience, University of New Hampshire (Ongoing)\nResearch on neuronal development, primary cilia signaling, and cortical organization.\nM.Sc. in Biochemistry, University of Chittagong\nThesis on protein structure and cellular signaling pathways.\nB.Sc. in Biochemistry and Molecular Biology, University of Chittagong\n\n\n\n\nResearch Experience 🔬\n\nGraduate Research Assistant, University of New Hampshire\nInvestigating the role of Reelin and ciliary signaling in neuronal positioning and cortical layer formation using confocal microscopy and immunostaining.\nResearch Assistant, Shahjalal University of Science & Technology\nStudied molecular mechanisms of oxidative stress and neuroprotection.\n\n\n\n\nTeaching Experience 🧑‍🏫\n\nGraduate Teaching Assistant, Human Physiology & Anatomy, UNH\nGuided undergraduates through labs, dissections, and digital anatomy tools (Anatomage Table).\n\n\n\n\nSkills 🧩\n\nConfocal Microscopy\n\nImmunostaining & Genotyping\n\nGraphPad Prism & R (tidyverse, ggplot2)\n\nScientific Writing & Data Visualization\n\n\n\n\nAwards 🏆\n\nSummer Teaching Assistant Fellowship (STAF), UNH\n\nChristina Carr Travel Award, Society for Neuroscience (2025)\n\n\n\n\nContact 📫\nEmail: sumayagbe.nstu@gmail.com\nGitHub: github.com/SumayaAkter739"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "page-title: false about: template: trestles # adds the profile layout image: img/sumaya.jpg links: - icon: map-pin text: Durham, New Hampshire - icon: envelope text: sumayagbe.nstu@gmail.com href: mailto:sumayagbe.nstu@gmail.com - icon: github text: GitHub href: https://github.com/SumayaAkter739 —\n# “About Me”\nMy research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization during cortical development. My recent discovery revealed that the primary cilia of pyramidal neurons are positioned near the base of apical dendrites and oriented opposite to the axon initial segment (AIS), reflecting their directional alignment along the apical-basal axis. In Reelin-deficient (reeler) mice, this polarity is disrupted, leading to disoriented and elongated cilia in principal neurons across the neocortex and hippocampus—uncovering a critical role for Reelin in controlling ciliary orientation and length during postnatal neurodevelopment. Through high-resolution confocal imaging, immunostaining, and quantitative morphometric analysis, my work aims to define how ciliary dynamics influence neuronal positioning, cortical patterning, and neurodevelopmental disorders such as autism, schizophrenia, and epilepsy."
+  },
+  {
     "objectID": "Education.html",
     "href": "Education.html",
     "title": "Education",
@@ -19,12 +40,5 @@
     "title": "Education",
     "section": "🧬 Bachelor of Science in Biotechnology and Genetic Engineering",
     "text": "🧬 Bachelor of Science in Biotechnology and Genetic Engineering\nJan 2018 – May 2023\nNoakhali Science and Technology University (NSTU), Bangladesh\nUndergraduate Project:\nIn silico Characterization of a Hypothetical Protein from Streptococcus pneumoniae D39V strain reveals a Biofilm Formation Stimulator Protein.\nDuring my undergraduate studies, I developed a strong background in molecular biology, protein modeling, and computational bioinformatics, which provided a foundation for my current neuroscience research."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nSumaya Akter\n",
-    "section": "",
-    "text": "Sumaya Akter\n\n\nPh.D. Student in Neuroscience, University of New Hampshire\n\n\n📍 Durham, New Hampshire    |    ✉️ sumaya.akter@unh.edu\n\n\n\nMy research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization during cortical development. My recent discovery revealed that the primary cilia of pyramidal neurons are positioned near the base of apical dendrites and oriented opposite to the axon initial segment (AIS), reflecting their directional alignment along the apical-basal axis. In Reelin-deficient (reeler) mice, this polarity is disrupted, leading to disoriented and elongated cilia in principal neurons across the neocortex and hippocampus—uncovering a critical role for Reelin in controlling ciliary orientation and length during postnatal neurodevelopment. Through high-resolution confocal imaging, immunostaining, and quantitative morphometric analysis, my work aims to define how ciliary dynamics influence neuronal positioning, cortical patterning, and neurodevelopmental disorders such as autism, schizophrenia, and epilepsy."
   }
 ]

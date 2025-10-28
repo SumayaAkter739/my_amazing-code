@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+
 page-title: false
 about:
   template: trestles      # adds the profile layout
@@ -15,11 +15,9 @@ about:
       href: https://github.com/SumayaAkter739
 ---
 
-Hello! My name is **Sumaya Akter**, and I am a PhD student in **Neuroscience** at the **University of New Hampshire**.\
-My research focuses on **how primary cilia signaling and the Reelin signaling pathway regulate neuronal migration and laminar organization in the cerebral cortex**, with the long-term goal of linking these basic mechanisms to **cognitive disorders**.
+\# "About Me"
 
-I’m passionate about **postnatal brain development, ciliary signaling, and cortical organization**, integrating molecular biology and imaging techniques to explore brain structure and function.\
-Beyond the lab, I value **scientific communication, data-driven neuroscience**, and collaborative, open science.
+My research focuses on how primary cilia signaling and the Reelin pathway coordinate neuronal migration, polarity, and laminar organization during cortical development. My recent discovery revealed that the primary cilia of pyramidal neurons are positioned near the base of apical dendrites and oriented opposite to the axon initial segment (AIS), reflecting their directional alignment along the apical-basal axis. In Reelin-deficient (reeler) mice, this polarity is disrupted, leading to disoriented and elongated cilia in principal neurons across the neocortex and hippocampus—uncovering a critical role for Reelin in controlling ciliary orientation and length during postnatal neurodevelopment. Through high-resolution confocal imaging, immunostaining, and quantitative morphometric analysis, my work aims to define how ciliary dynamics influence neuronal positioning, cortical patterning, and neurodevelopmental disorders such as autism, schizophrenia, and epilepsy.
 
 ------------------------------------------------------------------------
 
