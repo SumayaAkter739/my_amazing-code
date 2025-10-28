@@ -1,12 +1,17 @@
 ---
-title: "Welcome to My Supercool Code"
-format: html
+title: "Sumaya Akter"
+image: img/me.jpg
 ---
 
-![Sumaya Akter](img/sumaya.jpg){width=180px fig-align="right"}
+# **Hi!**
 
-## About Me 🧠👩‍🔬
+I’m Sumaya Akter, a PhD student in Neuroscience (Biochemistry program) at the University of New Hampshire. I study how primary cilia and the Reelin signaling pathway** regulate neuronal migration and laminar organization in the cerebral cortex, with the long-term goal of connecting basic mechanisms to neurodevelopmental and cognitive disorders.
 
-Hi! I'm **Sumaya Akter**, a PhD student in **Neuroscience** at the University of New Hampshire.  
+My work integrates confocal imaging, quantitative analysis, and rigorous statistics to map ciliary orientation, length, and apical localization across cortical regions.
 
-My goal is to be a **Neuroscientist**.
+- 📍 Durham, New Hampshire  
+- ✉️ sumaya.akter@unh.edu  
+- 📄 [Download my CV](CV_Sumaya.pdf)
+
+> I’m passionate about scientific communication, data-driven neuroscience, and collaborative, open science.
+
