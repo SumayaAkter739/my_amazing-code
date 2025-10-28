@@ -2,7 +2,7 @@
 title: "About Me"
 page-title: false
 about:
-  template: trestles
+  template: trestles      # adds the profile layout
   image: img/sumaya.jpg
   links:
     - icon: map-pin
@@ -18,8 +18,8 @@ about:
 Hello! My name is **Sumaya Akter**, and I am a PhD student in **Neuroscience** at the **University of New Hampshire**.  
 My research focuses on **how primary cilia signaling and the Reelin signaling pathway regulate neuronal migration and laminar organization in the cerebral cortex**, with the long-term goal of linking these basic mechanisms to **cognitive disorders**.
 
-Broadly, I am interested in **postnatal brain development, ciliary signaling, and cortical organization**, integrating molecular biology and imaging techniques to explore brain structure and function.  
-I’m also passionate about **scientific communication**, data-driven neuroscience, and promoting open, collaborative science.
+I’m passionate about **postnatal brain development, ciliary signaling, and cortical organization**, integrating molecular biology and imaging techniques to explore brain structure and function.  
+Beyond the lab, I value **scientific communication, data-driven neuroscience**, and collaborative, open science.
 
 ---
 
