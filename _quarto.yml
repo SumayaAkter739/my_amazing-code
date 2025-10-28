@@ -1,23 +1,16 @@
-project:
-  type: website
-  output-dir: docs
-
 website:
   title: "Sumaya Akter"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: cv.qmd
-        text: CV
-    right:
-      - icon: github
-        href: https://github.com/SumayaAkter739
-      - icon: envelope
-        href: mailto:sumayagbe.nstu@gmail.com
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Presentations"
+        href: presentations.qmd
+      - text: "CV"
+        href: CV_Sumaya.pdf
 
-format:
-  html:
-    theme: flatly
+ 

@@ -15,13 +15,13 @@ about:
       href: https://github.com/SumayaAkter739
 ---
 
-Hello! My name is **Sumaya Akter**, and I am a PhD student in **Neuroscience** at the **University of New Hampshire**.  
+Hello! My name is **Sumaya Akter**, and I am a PhD student in **Neuroscience** at the **University of New Hampshire**.\
 My research focuses on **how primary cilia signaling and the Reelin signaling pathway regulate neuronal migration and laminar organization in the cerebral cortex**, with the long-term goal of linking these basic mechanisms to **cognitive disorders**.
 
-I’m passionate about **postnatal brain development, ciliary signaling, and cortical organization**, integrating molecular biology and imaging techniques to explore brain structure and function.  
+I’m passionate about **postnatal brain development, ciliary signaling, and cortical organization**, integrating molecular biology and imaging techniques to explore brain structure and function.\
 Beyond the lab, I value **scientific communication, data-driven neuroscience**, and collaborative, open science.
 
----
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 

@@ -4,47 +4,53 @@ format: html
 ---
 
 # Education 🎓
-- **Ph.D. in Neuroscience**, University of New Hampshire (Ongoing)  
-  *Research on neuronal development, primary cilia signaling, and cortical organization.*
 
-- **M.Sc. in Biochemistry**, University of Chittagong  
-  *Thesis on protein structure and cellular signaling pathways.*
+-   **Ph.D. in Neuroscience**, University of New Hampshire (Ongoing)\
+    *Research on neuronal development, primary cilia signaling, and cortical organization.*
 
-- **B.Sc. in Biochemistry and Molecular Biology**, University of Chittagong  
+-   **M.Sc. in Biochemistry**, University of Chittagong\
+    *Thesis on protein structure and cellular signaling pathways.*
 
----
+-   **B.Sc. in Biochemistry and Molecular Biology**, University of Chittagong
+
+------------------------------------------------------------------------
 
 # Research Experience 🔬
-- **Graduate Research Assistant**, University of New Hampshire  
-  Investigating the role of **Reelin and ciliary signaling** in neuronal positioning and cortical layer formation using **confocal microscopy** and **immunostaining**.
 
-- **Research Assistant**, Shahjalal University of Science & Technology  
-  Studied molecular mechanisms of oxidative stress and neuroprotection.
+-   **Graduate Research Assistant**, University of New Hampshire\
+    Investigating the role of **Reelin and ciliary signaling** in neuronal positioning and cortical layer formation using **confocal microscopy** and **immunostaining**.
 
----
+-   **Research Assistant**, Shahjalal University of Science & Technology\
+    Studied molecular mechanisms of oxidative stress and neuroprotection.
+
+------------------------------------------------------------------------
 
 # Teaching Experience 🧑‍🏫
-- **Graduate Teaching Assistant**, Human Physiology & Anatomy, UNH  
-  Guided undergraduates through labs, dissections, and digital anatomy tools (Anatomage Table).
 
----
+-   **Graduate Teaching Assistant**, Human Physiology & Anatomy, UNH\
+    Guided undergraduates through labs, dissections, and digital anatomy tools (Anatomage Table).
+
+------------------------------------------------------------------------
 
 # Skills 🧩
-- Confocal Microscopy  
-- Immunostaining & Genotyping  
-- GraphPad Prism & R (tidyverse, ggplot2)  
-- Scientific Writing & Data Visualization  
 
----
+-   Confocal Microscopy\
+-   Immunostaining & Genotyping\
+-   GraphPad Prism & R (tidyverse, ggplot2)\
+-   Scientific Writing & Data Visualization
+
+------------------------------------------------------------------------
 
 # Awards 🏆
-- Summer Teaching Assistant Fellowship (STAF), UNH  
-- Christina Carr Travel Award, Society for Neuroscience (2025)
 
----
+-   Summer Teaching Assistant Fellowship (STAF), UNH\
+-   Christina Carr Travel Award, Society for Neuroscience (2025)
+
+------------------------------------------------------------------------
 
 # Contact 📫
-**Email:** [sumayagbe.nstu@gmail.com](mailto:sumayagbe.nstu@gmail.com)  
+
+**Email:** [sumayagbe.nstu\@gmail.com](mailto:sumayagbe.nstu@gmail.com)\
 **GitHub:** [github.com/SumayaAkter739](https://github.com/SumayaAkter739)
 
----
+------------------------------------------------------------------------
