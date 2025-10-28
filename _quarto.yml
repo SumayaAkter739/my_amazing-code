@@ -2,6 +2,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CV_Sumaya.pdf
 
 website:
   title: "About Me"
@@ -9,7 +11,7 @@ website:
   favicon: img/sumaya.jpg
   navbar:
     left:
-
+      
       - text: "Research"
         href: research.qmd
       - text: "Teaching"
