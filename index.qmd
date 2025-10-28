@@ -16,8 +16,6 @@ about:
       href: CV_Sumaya.pdf
 ---
 
-
-
 # 🧠 About Me
 
 I’m Sumaya Akter, a Ph.D. student in Neuroscience at the University of New Hampshire.  

@@ -9,6 +9,7 @@ website:
   favicon: img/sumaya.jpg
   navbar:
     left:
+
       - text: "Research"
         href: research.qmd
       - text: "Teaching"
