@@ -1,17 +1,28 @@
 ---
-title: "About Me 👩‍🔬"
-format: html
-editor: visual
+title: "About Me"
+page-title: false
+about:
+  template: trestles
+  image: img/sumaya.jpg
+  links:
+    - icon: map-pin
+      text: Durham, New Hampshire
+    - icon: envelope
+      text: sumayagbe.nstu@gmail.com
+      href: mailto:sumayagbe.nstu@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/SumayaAkter739
 ---
 
-Hi! I’m **Sumaya Akter**, a PhD student in **Neuroscience** at the **University of New Hampshire**.  
+Hello! My name is **Sumaya Akter**, and I am a PhD student in **Neuroscience** at the **University of New Hampshire**.  
+My research focuses on **how primary cilia signaling and the Reelin signaling pathway regulate neuronal migration and laminar organization in the cerebral cortex**, with the long-term goal of linking these basic mechanisms to **cognitive disorders**.
 
-
-You can explore my recent publication on **PubMed**:  
-👉 [Disruption of ciliary signaling alters neuronal positioning and laminar organization](https://pubmed.ncbi.nlm.nih.gov/40894628/)
-
-Connect with me on [GitHub](https://github.com/SumayaAkter739) or follow my scientific updates here.
+Broadly, I am interested in **postnatal brain development, ciliary signaling, and cortical organization**, integrating molecular biology and imaging techniques to explore brain structure and function.  
+I’m also passionate about **scientific communication**, data-driven neuroscience, and promoting open, collaborative science.
 
 ---
+
+------------------------------------------------------------------------
 
 ## 
