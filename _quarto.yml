@@ -15,8 +15,6 @@ website:
         href: Education.qmd
       - text: "Research"
         href: research.qmd
-      - text: "Teaching"
-        href: Teaching.qmd
   page-footer:
     left: "&copy; 2025"
     right: "Built with Quarto"
