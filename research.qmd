@@ -1,0 +1,57 @@
+---
+title: "Research Experience"
+---
+
+## 🎓 Ph.D. Research  
+**Department of Molecular, Cellular, and Biochemical Science**  
+**University of New Hampshire, Durham, NH, U.S.A.**  
+**Advisor:** Dr. Xuanmao Chen  
+**Duration:** August 2023 – Present  
+
+My Ph.D. research investigates how **Reelin signaling** regulates neuronal polarity, cilia orientation, and laminar organization during cortical development.  
+The project, titled *“Reelin Controls Cilia Directionality and Centriole Positioning in Laminated Cortical Regions,”* uses high-resolution confocal imaging, immunostaining, and quantitative morphometric analysis to uncover how ciliary signaling contributes to neuronal positioning and cortical refinement in both wild-type and *Reeler* mice.
+
+---
+
+## 🔬 Research Assistant  
+**ABEx Bio-Research Center**  
+**Advisor:** Dr. Md Jamal Uddin, Ph.D.  
+**Professor, Ewha Womans University, Seoul, Korea**  
+**Duration:** March 2021 – November 2021  
+
+Worked on multiple pharmacological and translational research projects focusing on the protective roles of natural compounds against renal and hepatic diseases.  
+- *Project 1:* **Renoprotective effects of Mangiferin: Pharmacological advances and future perspectives.**  
+- *Project 2:* **Renoprotective potentials of small molecule natural products targeting mitochondrial dysfunction.**  
+- *Project 3:* **Potentials of Mangiferin against liver diseases: Pharmacological insights and therapeutic promises.**  
+
+---
+
+## 🧬 Collaborative Research Assistant  
+**Centre for Biomedical Research and Training (CBRT)**  
+**University of Toronto, Canada**  
+**Advisors:** Dr. Niazur Rahman, M.D., M.Sc., and Dr. Tanbira Alam, M.D., M.Phil., M.Sc.  
+**Duration:** March 2021 – November 2021  
+
+Investigated the **beneficial roles of HSP72 expression induced by skeletal muscle contraction** and its implications for cellular stress resistance and neuroprotection.  
+This collaborative research combined insights from muscle physiology, mitochondrial biology, and stress-response pathways.
+
+---
+
+## 🧠 Research Assistant  
+**University of Chittagong, Bangladesh**  
+**Advisor:** Dr. Adnan Mannan, Ph.D.  
+**Duration:** January 2021 – March 2021  
+
+Project: *Impact of Hypertension on Health-Related Quality of Life in a Population-Based Study in Bangladesh.*  
+This was a collaborative initiative between **University of Chittagong**, **Chittagong Medical College**, **Asian University for Women**, and the **250-Bedded Chittagong General Hospital**, aiming to identify clinical and lifestyle factors influencing cardiovascular health outcomes in the Bangladeshi population.
+
+---
+
+## 🎓 Undergraduate Research  
+**Department of Biotechnology and Genetic Engineering**  
+**Noakhali Science and Technology University (NSTU), Bangladesh**  
+**Duration:** January 2018 – May 2023  
+
+Undergraduate Project: *In silico Characterization of a Hypothetical Protein from* ***Streptococcus pneumoniae*** *D39V strain reveals a Biofilm Formation Stimulator Protein.*  
+This project utilized computational tools to predict protein structure and function, providing early research experience in molecular modeling, bioinformatics, and structural biology.
+---
