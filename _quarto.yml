@@ -17,8 +17,6 @@ website:
         href: research.qmd
       - text: "Teaching"
         href: Teaching.qmd
-      - text: "CV"
-        href: CV_Sumaya.pdf
   page-footer:
     left: "&copy; 2025"
     right: "Built with Quarto"
